@@ -39,7 +39,8 @@ st.markdown(
         color: #FF0000;
     }
     </style>
-    <p class="custom-font">MADE WITH MOVIEPY</p>
+    <p class="custom-font">MADE BY PYGOJO</p>
     """,
     unsafe_allow_html=True,
 )
+
