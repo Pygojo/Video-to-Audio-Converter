@@ -1,0 +1,10 @@
+streamlit
+moviepy
+numpy
+pillow
+imageio
+imageio-ffmpeg
+decorator
+proglog
+python-dotenv
+tqdm
